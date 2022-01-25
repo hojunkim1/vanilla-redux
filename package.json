@@ -1,6 +1,6 @@
 {
   "name": "vanilla-redux",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "redux with vanilla js",
   "main": "index.js",
   "repository": "https://github.com/hojunkim1/vanilla-redux.git",
